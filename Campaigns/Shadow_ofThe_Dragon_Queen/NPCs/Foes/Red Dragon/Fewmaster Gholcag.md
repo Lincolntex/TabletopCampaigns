@@ -1,0 +1,19 @@
+![[Gholcag.jpg]] 
+- Characteristics:
+	- [Ogre](https://www.dndbeyond.com/monsters/4904825-ogre), Female
+	- Lawful Evil, RDA Commander
+		- Follows her orders for her benefit at the expense of others
+	- Visual Traits:
+		- Age: xx Years old
+		- Hight: xx
+		- Appearance
+- Backstory
+	- Groups:
+		- [[Dragon Army, Red]]
+	- Wants
+		- Everything
+	- Fear
+		- Takhisis
+	- From:
+		- Where they are from
+	- Introduced: Link to the page first refences the character

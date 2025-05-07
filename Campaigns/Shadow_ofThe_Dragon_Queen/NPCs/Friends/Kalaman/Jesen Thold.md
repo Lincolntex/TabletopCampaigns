@@ -1,0 +1,19 @@
+![[Jesen_Thold.webp]]
+- Characteristics:
+	- Human, Male
+	- Neutral Good, [Veteran](https://www.dndbeyond.com/monsters/17045-veteran) 
+		- Will bend the rules to help others
+	- Visual Traits:
+		- Age: xx Years old
+		- Hight: xx
+		- Appearance
+- Backstory
+	- Groups:
+		- [[Kalaman]] 
+			- Owner of The Steady Beacon
+			- Old friend to Marshal [[Nestra Vendri]]  
+	- Wants
+	- Fear
+	- From:
+		- Kalaman
+	- Introduced: Link to the page first refences the character

@@ -1,0 +1,32 @@
+![[BakarisSr..jpg]] 
+- Characteristics:
+	- Human, Male
+	- Neutral Evil, [noble](https://www.dndbeyond.com/monsters/16966-noble?srsltid=AfmBOorO5T7fDbmiXmnZwqBS-dhr8pjdZFKq6XosDUhN92fYuD5_hOhK) 
+		- Actively seeks his own gain at the expense of others
+	- Visual Traits:
+		- Early 40s
+		- Short fat man
+- Backstory
+	- Groups:
+		- Vogler "Nobility"
+	- Traits:
+		- Rude to locals 
+			- Throw wealth around and treat them as yokels   
+		- Loves calling his son Jr.
+		- Takes credit for the work of others
+	- Wants
+		- advance his station
+		- Collect massive wealth
+		- To get what the world "owes" him
+	- Fears
+		- being found out for his sons crimes
+		- Those stronger than himself
+			- Full of bluster, but
+			- Hes comically cowardice at his heart
+	- From:
+		-  Estwilde
+			- Solamnic noble 
+				- Family known for wealth
+			- living in exile after raiders burned his family home in Estwilde
+				- They were actually driven away from the region and sought anonymity in Vogler. 
+	- Introduced: Link to the page first refences the character

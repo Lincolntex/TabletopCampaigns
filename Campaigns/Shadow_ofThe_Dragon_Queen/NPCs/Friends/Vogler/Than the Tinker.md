@@ -1,0 +1,20 @@
+![[Than.jpeg]] 
+- Characteristics:
+	- Tinkergnome, Male
+	- Neutral Good, Artificer
+		- Will bend the rules to help those in need
+	- Visual Traits:
+		- Age: xx Years old
+		- Hight: 3' 9"
+		- Appearance
+- Backstory
+	- Groups:
+		- Tinkers of Mount Nevermind
+		- Old friends with [[Ispin Greenshield]]  
+	- Wants
+		- to improve the Gnomeflinger
+	- Fear
+		- Becklin will grow tired of his shenanigans and have the Gnomeflinger removed
+	- From:
+		- Mount Nevermind
+	- Introduced: Link to the page first refences the character

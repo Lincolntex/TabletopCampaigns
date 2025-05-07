@@ -1,0 +1,23 @@
+ ![[Rhys.jpg]] 
+- Characteristics:
+	- Human, Male
+	- Neutral Good,  [Commoner](https://www.dndbeyond.com/monsters/16829-commoner?srsltid=AfmBOoqJACB1TSbAH6pmpz9odNurNIMVjcdhxnGUAR7lBj0ygZrc_GYh) 
+		- Will bend the rules to help when he can
+	- Visual Traits:
+		- Age: 26 Years old
+		- Hight: 5'11'
+		- Appearance
+- Backstory
+	- Groups:
+		- Family Farm
+		- Travel party of Knights
+			- Guide
+	- Wants
+		- To survive and help his family through another crop
+	- Fear
+		- The fields dry up
+		- The wrath of Takhisis
+		- Whatever the hell was in those woods!
+	- From:
+		- A farm a few hours outside of Vogler
+	- Introduced: Link to the page first refences the character

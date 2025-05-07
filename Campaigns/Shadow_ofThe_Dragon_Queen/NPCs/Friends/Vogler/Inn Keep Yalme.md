@@ -1,0 +1,33 @@
+![[Yalme.jpg]] 
+- Characteristics:
+	- Human, Female
+	- Neutral Good, [Commoner](https://www.dndbeyond.com/monsters/16829-commoner?srsltid=AfmBOoqJACB1TSbAH6pmpz9odNurNIMVjcdhxnGUAR7lBj0ygZrc_GYh) 
+		- Will bend the rules to help when she can
+	- Visual Traits:
+		- Age: 34 Years old
+		- Hight: 5'4"
+		- Appearance
+- Backstory
+	- Groups:
+		- Owner of the Brass Crab with her Husband
+			- She runs the bar, and deals with the clients
+			- He does the record keeping and manages bills
+			- Brass Crab
+				- Single story modest inn of Vogler
+					- A massive mural is hung on the back wall of the inn
+						- It depicts two crabs locked in combat
+						- Origin is lost to time
+						- One crab (Fancy) uses its massive claw to grasp the smaller claw of the other
+						- The other crab (Gorgeous George) flails his smaller claw, while raising his giant claw above the head of the other, who has him in his grasp. 
+	- Wants
+		- To be taken seriously as a bar owner
+		- She doesn't take any shit from rowdy customers
+		- Soft spot for poor musicians and bad storytellers
+	- Fear
+		- For her husbands health
+			- stresses out all the time
+		- For Solamnia as a whole. 
+			- She's heard nightmarish rumors about assaults going on in the surrounding villages and farms
+	- From:
+		- Where they are from
+	- Introduced: Link to the page first refences the character

@@ -1,0 +1,13 @@
+Occupation:
+    - Owner and Barkeep of Green Dragon Inn
+- Clothing:
+    - Simple but nice clothes
+- Personality:
+    - friendly, and confident
+    - Looks after Bar and acts as the muscle if necessary
+    - Protective and kind
+- related Characters:
+    - Son
+	    - [[Matt Hearthwood]]
+    - Wife
+	    - [[Grace Hearthwood]] 

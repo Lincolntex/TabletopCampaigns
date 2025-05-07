@@ -1,0 +1,21 @@
+This is still a work in progress, but could be a cool intro to a larger quest. 
+
+- <span style="color:rgb(0, 176, 80)">You begin to hear a faint chanting coming from deeper in the woods. You begin to wonder if it’s just your imagination getting the best of you, when you hear the melodic chanting begin to grow louder. You are now sure you are not hearing things as you pinpoint the sound ringing out about 20 or so yards into the woods. After a few moments pass, you begin to see a faint light begin to flicker along with with melody. The faint glow shining out from the darkness seems to beckon you forward as you feel its soothing glow dance about you mingling with the soft humming melody. Eventually, you begin to sense the feeling begin to fade as the glow begins to move deeper into the forest.</span>
+	- <span style="color:rgb(255, 255, 0)">If the light is ignored:</span>
+		- <span style="color:rgb(0, 176, 80)">Nothing else out of the ordinary happens, and your watch completes without incident.</span>
+	- <span style="color:rgb(255, 255, 0)">If the light is followed:</span>
+		- <span style="color:rgb(0, 176, 80)">You follow the glow deeper into the woods letting the soothing music lull you into a calm you have never allowed yourself to feel before. You feel a wave of light begin to wash over you as the air begins to hum and vibrate with energy.</span>
+		- <span style="color:rgb(255, 255, 0)">Party Spell Save!</span>
+			- <span style="color:rgb(255, 255, 0)">DM Roll for spell attack (+5)</span>
+			- <span style="color:rgb(255, 0, 0)">Spell:</span> [Hypnotic Pattern](https://roll20.net/compendium/dnd5e/Hypnotic%20Pattern#content)
+				- <span style="color:rgb(255, 255, 0)">Hits</span>
+					-<span style="color:rgb(0, 176, 80)"> You feel the energy pass over you as your mind withstands the effects of the spell cast upon the party. You look around and see</span> <span style="color:rgb(255, 0, 0)">Effected Players</span> <span style="color:rgb(0, 176, 80)">frozen in place with a blissful smile painted across their senseless faces as if they are being effected by a mind altering spell. </span>
+				- <span style="color:rgb(255, 255, 0)">Misses</span>
+					- <span style="color:rgb(0, 176, 80)">You stand awestruck by the dazzling display before you. The golden aqua glow emanates out from a single point in the darkness, mingling with the melody that has grown into a complete song ringing out in the night. As the melody reaches its crescendo the golden light blasts out in a brilliant light. You clench your eyes shut to defend against the blinding light then, all goes dark...</span>
+		- <span style="color:rgb(255, 255, 0)"> Player Spell Save DC Check!</span>
+			- <span style="color:rgb(255, 255, 0)">DM Roll for spell attack (+7)</span> 
+			- <span style="color:rgb(255, 0, 0)">Spell:</span> [Geas](https://roll20.net/compendium/dnd5e/Geas#content)
+				- <span style="color:rgb(255, 255, 0)">Hits</span>
+					- <span style="color:rgb(0, 176, 80)">The light begins to coalesce and take shape. Before you now stands the glowing silhouette of what appears to be a beautiful woman. The light shines out from the woman like great wings as she moves in to embrace you. She leans in and whispers in your ear. You mind works like mad to decipher the words, however, right when you begin to piece together their meaning, the world fades to black...</span>
+				- <span style="color:rgb(255, 255, 0)">Misses</span>
+					- <span style="color:rgb(0, 176, 80)">The light begins to coalesce and take shape. Before you now stands the glowing silhouette of what appears to be a beautiful woman. The light shines out from the woman like great wings as she moves in to embrace you. She leans in and whispers in your ear. You mind works like mad to decipher the words, however, right when you begin to piece together their meaning, the world fades to black...</span>

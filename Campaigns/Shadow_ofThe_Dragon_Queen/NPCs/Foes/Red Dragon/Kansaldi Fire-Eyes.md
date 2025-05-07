@@ -1,0 +1,22 @@
+![[Kansaldi Fire-Eyes.webp]] 
+![[Kansaldi_2.jpg]]
+- [Stat-block](https://www.dndbeyond.com/sources/dnd/sotdq/friends-and-foes#KansaldiFireEyes) 
+- Characteristics:
+	- Human, Female
+	- Lawful Evil, Cleric
+		- Uses laws and power for personal gain at the expense of others 
+	- Visual Traits:
+		- Age: xx Years old
+		- Hight: xx
+		- Appearance
+			- Scary as fuck
+- Backstory
+	- Groups:
+		- Acting leader of [[Dragon Army, Red]] 
+	- Wants
+		- Favor of Takhisis
+	- Fear
+		- Dragon Queens disapproval
+	- From:
+		- ???
+	- Introduced: Link to the page first refences the character

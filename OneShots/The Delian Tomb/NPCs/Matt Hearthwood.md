@@ -1,0 +1,13 @@
+- Occupation:
+    - Busboy for Green Dragon Inn
+- Clothing:
+    - Simple clothes, but well kept
+- Personality:
+    - friendly, and confident
+    - curious and inquisitive
+    - helpful and kind
+- related Characters:
+    - Father
+	    - [[Joshua Hearthwood]]
+    - Mother
+	    - [[Grace Hearthwood]] 

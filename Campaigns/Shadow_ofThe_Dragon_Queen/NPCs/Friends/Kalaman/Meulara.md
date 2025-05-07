@@ -1,0 +1,23 @@
+![[Meulara.jpg]]
+- Characteristics:
+	- Kender, Female
+	- Chaotic Good, Commoner
+		- Will break the law to help others
+	- Visual Traits:
+		- Age: xx Years old
+		- Hight: xx
+		- Appearance
+- Backstory
+	- Groups:
+		- [[Kalaman]] 
+			- Owner of Meularas Oddities 
+			- Kender Storymaster
+				- Claims to know every Kender in Kalaman
+				- New Kender are sent to her 
+					- to swap stories
+					- to trade information 
+	- Wants
+	- Fear
+	- From:
+		- Kalaman
+	- Introduced: Link to the page first refences the character

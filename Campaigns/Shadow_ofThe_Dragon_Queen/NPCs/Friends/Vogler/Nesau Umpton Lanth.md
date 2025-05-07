@@ -1,0 +1,23 @@
+![[Nesau.jpg]] 
+- Characteristics:
+	- Human, Male
+	- Chaotic Neutral, [commoner](https://www.dndbeyond.com/monsters/16829-commoner?srsltid=AfmBOoqJACB1TSbAH6pmpz9odNurNIMVjcdhxnGUAR7lBj0ygZrc_GYh) 
+		- Will break the rules to better himself
+		- Nonchalant about his job helping his dad
+		- Quick to forgive fines and fees if his dad isn't present
+	- Visual Traits:
+		- 14 years old
+		- 5' 2"
+		- Appearance
+			- Common clothes
+			- Slightly unkempt 
+- Backstory
+	- Groups:
+		- Manages the Vogler Warf office
+	- Wants
+		- to explore the world and get as far away from Vogler as possible
+	- Fear
+		- To be stuck in this town, running his fathers office forever
+	- From:
+		- Vogler
+	- Introduced: Link to the page first refences the character

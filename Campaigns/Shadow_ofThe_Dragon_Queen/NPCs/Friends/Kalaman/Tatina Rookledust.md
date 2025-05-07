@@ -1,0 +1,21 @@
+![[Tatina.png]]
+- Characteristics:
+	- Rock Gnome, Female
+	- Neutral Good, [Acolyte](https://www.dndbeyond.com/monsters/16763-acolyte) 
+		- Will bend the rules to help others
+		- Uses Acolyte, but spells manifest as her little inventions stashed away in her jacket. 
+	- Visual Traits:
+		- Age: 30 Years old
+		- Hight: 3'9"
+	- Stats
+		- HP: 9
+- Backstory
+	- Groups:
+		- Na
+	- Wants
+		- To make the world a better place with her inventions
+	- Fear
+		- Her work to be stolen and used for evil
+	- From:
+		- ???
+	- Introduced: Link to the page first refences the character

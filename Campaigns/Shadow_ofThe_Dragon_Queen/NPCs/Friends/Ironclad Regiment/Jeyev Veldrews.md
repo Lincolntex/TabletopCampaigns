@@ -1,0 +1,19 @@
+![[Jeyev.webp]]
+- Characteristics:
+	- Human, Male
+	- Neutral Good, [Scout](https://www.dndbeyond.com/monsters/17007-scout?srsltid=AfmBOooerF2JGqX3XcN4AuJCzzBsQoZnjHQHT5aRO-f5apd1_IQ1k8Rs) 
+		- Will bend the rules to help others
+	- Visual Traits:
+		- Mid 30s
+		- Hight
+		- Appearance
+- Backstory
+	- Groups:
+		- [[Ironclad Regiment]] 
+	- Wants
+		- To uphold his oath to Cudgel
+	- Fear
+		- Betrayal
+	- From:
+		- ???
+	- Introduced: [[2.2) Arriving in Vogler]]: Locations/Mercenary Camp

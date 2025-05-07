@@ -1,0 +1,18 @@
+IMGAGE
+- Characteristics:
+	- Hill dwarf, Female
+	- Lawful Neutral, [Veteran](https://www.dndbeyond.com/monsters/17045-veteran)
+		- Will follow the law, but looks for personal gain
+	- Visual Traits:
+		- Age: xx Years old
+		- Hight: xx
+		- Appearance
+- Backstory
+	- Groups:
+		- Runs the Right Hammerstrike forge in [[Kalaman]] 
+		- Specializes in Weapons
+	- Wants
+	- Fear
+	- From:
+		- Kalaman
+	- Introduced: Link to the page first refences the **character**

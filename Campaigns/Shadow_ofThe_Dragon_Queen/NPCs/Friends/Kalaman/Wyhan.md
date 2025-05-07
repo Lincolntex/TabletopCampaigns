@@ -1,0 +1,23 @@
+![[Wyhan.jpg]]
+- Characteristics:
+	- Human, Female
+	- Lawful Evil, [Mage](https://www.dndbeyond.com/monsters/4831023-mage) 
+		- Use laws to her benefit at the expense of others
+	- Visual Traits:
+		- Age: xx Years old
+		- Hight: xx
+		- Appearance
+	- Personality Traits
+		- Disdainful for non-mages
+- Backstory
+	- Runs her niche Apothecary shop in [[Kalaman]] 
+		- Sells spells and components on the side
+	- Groups:
+		- [[Mages of High Sorcery]] 
+			- 
+	- Wants
+		- Measure up new recruits 
+		- Sell her trinkets in peace. 
+	- Fear
+	- From:
+	- Introduced: Link to the page first refences the character

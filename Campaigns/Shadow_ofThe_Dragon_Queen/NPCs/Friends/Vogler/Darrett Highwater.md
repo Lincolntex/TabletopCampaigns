@@ -1,0 +1,56 @@
+-![[Darrett_1.jpg]]![[Darrett_2.jpg]]
+- Characteristics:
+	- Human, Male
+	- Lawful Good, [Knight](https://www.dndbeyond.com/monsters/16938-knight?srsltid=AfmBOopNxkN0bsK9lf2m79Q45ABwF87ZZshycBXfdvtHB-gOw1moY7-j) 
+		- Brief alignment summary
+	- ABILITIES:
+		- Once Knights armor has been obtained from Becklin
+			- Knight of the Crown
+				- Feat
+					- Active
+						- Commanding Rally x(proficiency bonus)
+							- As a bonus action, command an ally within 30ft to attack
+							- If they see or Hear
+								- They make one weapon attack
+								- add 1d8 to the damage
+							- Use Levna level stats for Darrett
+								- <span style="color:rgb(255, 149, 0)">BOOK SDQ ( pg. 218)</span>: [Stats](https://5e.tools/bestiary/levna-drakehorn-dsotdq.html#:~:text=Levna%20beyond%201st%20Level%5B%E2%80%93%5D&text=Second%20Wind.,a%20short%20or%20long%20rest.) 
+					- Passive
+						- Tough
+						- Skilled
+				- proficiency +3 (Ability score increases)
+					- STR 16 +3
+						- Athletics 
+					- DEX 12 +1
+					- CON 14 +2
+					- INT 11 +0
+						- History
+					- WIS 11 +0
+						- Survival
+					- CHA 15 +2
+	- Visual Traits:
+		- 20 years old
+		- 5'9
+		- Appearance
+	- S
+- Backstory
+	- Groups:
+		- [[Knights of Solamnia]]
+			- Order of the Crown
+			- Squire to [[Becklin Uth Viharin]] 
+	- Traits:
+		- His mind works faster than his speech, and often second guesses himself
+		- His honor is his life, and is clever and willing to learn, but inexperienced and has a hard time delegating
+		- Well Read
+			- sometimes speaks in ways Becklin would say is
+				- Unbecoming of a knight
+	- Wants:
+		- To become a Knight of Solamnia
+		- To make his town and family proud
+	- Fears:
+		- Being seen as a burden or disappointment
+	- From:
+		- Vogler
+			- abandoned by his parents as a young child
+			- Raised by the community as a ward before being taken under the wing of Becklin
+	- Introduced: Link to the page first refences the character

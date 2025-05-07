@@ -1,0 +1,31 @@
+![[BakarisJr.jpg]] 
+- Characteristics:
+	- Human, Male
+	- Neutral Evil, [noble](https://www.dndbeyond.com/monsters/16966-noble?srsltid=AfmBOorO5T7fDbmiXmnZwqBS-dhr8pjdZFKq6XosDUhN92fYuD5_hOhK) 
+		- Actively seeks his own gain at the expense of others
+	- Visual Traits:
+		- 19
+		- Fit
+		- Pompous and Arrogant
+- Backstory
+	- Groups:
+		- 
+	- Traits:
+		- Rude to locals 
+		- Bully
+			- Racist to everyone who's not a Human noble
+			- Believes he is better than everyone
+			- Willing to do anything to get his way  
+		- Short temper
+			- Violent
+				- When in Estwilde, he murders the son of a local leader during a duel, so he and his father had to flea to Vogler to escape the consequences 
+				- He fantasizes about the killing and cherishes the memory 
+			- HATES being called Jr. 
+	- Fears
+		- Being forgotten
+		- The world never realizing his Greatness
+	- From:
+		-  Estwilde
+			- claims to be a Solamnic noble living in exile after raiders burned his family home in Estwilde
+				- They were actually driven away from the region and sought anonymity in Vogler. 
+	- Introduced: Link to the page first refences the character

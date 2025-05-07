@@ -1,0 +1,22 @@
+![[Raven_Vogler.jpg]] 
+- Characteristics:
+	- Human, Female
+	- Neutral Good, [Scout](https://www.dndbeyond.com/monsters/17007-scout?srsltid=AfmBOopHmQY8rHEUhNpF_QEQM9yuT9IZQgYTIMeiixuv64AS46UIMRZx) 
+		- Willing to bend the laws to help those in need
+	- Visual Traits:
+		- Age: 38 Years old
+		- Hight: 5'8"
+		- Appearance
+- Backstory
+	- Groups:
+		- Mayor of Vogler
+			- Practical and Empathetic
+			- Dedicated to keeping the town fund strong and ready to support anyone who needs it
+	- Wants
+		- Whats best for Vogler
+	- Fear
+		- Possible threats to her town
+		- The terrible things she's been hearing about armies supporting the symbol of Tiamat
+	- From:
+		- Where they are from
+	- Introduced: Link to the page first refences the character

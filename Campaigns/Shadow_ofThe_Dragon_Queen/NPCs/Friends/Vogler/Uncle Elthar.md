@@ -1,0 +1,24 @@
+![[Uncle_Elthar.jpg]] 
+- Characteristics:
+	- Human Male
+	- Neutral Good, [Commoner](https://www.dndbeyond.com/monsters/16829-commoner?srsltid=AfmBOoqJACB1TSbAH6pmpz9odNurNIMVjcdhxnGUAR7lBj0ygZrc_GYh) 
+		- Will bend the rules to help when he can
+	- Alias
+		- Uncle
+	- Visual Traits:
+		- Age: 68 Years old
+		- Hight: 5'6"
+		- Appearance
+- Backstory
+	- Groups:
+		- Owner and operator of The Fishbowl Tavern
+			- Popular spot for local fisherman
+			- Most call him Uncle
+			- More well known for its amazing pies than its watered down beer
+	- Wants
+		- To keep his business going just long enough for him to die in his home town
+	- Fear
+		- Nothing much anymore
+	- From:
+		- Vogler
+	- Introduced: Link to the page first refences the character

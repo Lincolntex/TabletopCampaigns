@@ -1,0 +1,27 @@
+![[Ispin_Greenshield.jpg]] 
+- Characteristics (<span style="color:rgb(255, 0, 0)">Deceaced</span>):
+	- Human, Male
+	- Neutral Good, [Veteran](https://www.dndbeyond.com/monsters/17045-veteran?srsltid=AfmBOoo2z1wa1UYX8p5dj5RwOvl0LUS8533jeWffzmv083q9zSMX3RX_) 
+		- Would have bent the rules to help when he can
+	- Visual Traits:
+		- Age: 67 Years old
+		- Appearance
+	- 
+- Backstory
+	- Groups:
+		- [[Greenshield Party]] 
+	- Loves:
+		- Telling tall tales of his adventures to anyone willing to listen 
+			- fighting sea monsters and goblin raiders etc.
+	- Fears
+		- Hes dead... 
+	- From:
+		- Vogler, Solamnia
+	- Traveled across Ansalon as a Teacher, Trader and Adventurer
+		- Named after his shield that never left his side
+			- said it was magic, but could never prove it
+			- Said it was given to him by a Unicorn
+				- in the Darken Wood
+				- True?
+	- Finally retired in Vogler where he recently passed away in his sleep.
+	- Introduced: Link to the page first refences the character

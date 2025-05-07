@@ -1,0 +1,23 @@
+![[Vendri.jpg]]
+- Characteristics:
+	- Human, Female
+	- Lawful Neutral, [Knight](https://www.dndbeyond.com/monsters/16938-knight) 
+		- Law above all, anything for the government, anything for the king. 
+	- Visual Traits:
+		- Age: 33 Years old
+		- Hight: 5' 10"
+		- Appearance
+- Backstory
+	- Groups:
+		- Marshal of [[Kalaman]] 
+		- Gained most of exp.
+			- fighting Estwilde raiders
+			- Ogres in Taman Busuk
+	- Wants
+		- To stay on top
+		- Beat em at their own game
+	- Fear
+		- 
+	- From:
+		- Kalaman
+	- Introduced: Link to the page first refences the character

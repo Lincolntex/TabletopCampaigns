@@ -1,0 +1,21 @@
+![[Calof.jpg]]
+- Characteristics:
+	- Human, Male
+	- Lawful Neutral, [Noble](https://www.dndbeyond.com/monsters/16966-noble?srsltid=AfmBOoogB_i3qSpSrS5FwUAwl9M7ub3hE9DRTV2Pv1kFbH8wCABOMQkz) 
+		- Balance and law above all
+		- Curious and somewhat aloof
+			- Think less crazy Elodin
+	- Visual Traits:
+		- Age: 31 Years old
+		- Hight: xx
+		- Appearance
+- Backstory
+	- Groups:
+		- What orgs they are apart of
+	- Wants
+		- To better himself and Kalaman
+	- Fear
+		- Not living up to his own expectations
+	- From:
+		- Where they are from
+	- Introduced: Link to the page first refences the character

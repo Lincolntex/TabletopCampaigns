@@ -1,0 +1,20 @@
+![[Svilant_Sunderlit.png]] 
+- Characteristics:
+	- Human, male
+	- Chaotic Neutral, Mercenary 
+		- Willingly breaks laws for his own gain
+	- Visual Traits:
+		- Age: 26 Years old
+		- Hight: 5'11"
+		- Appearance
+- Backstory
+	- Groups:
+		- [[Ironclad Regiment]] 
+			- Just in it for the money and adventure
+	- Wants
+		- Fame Glory and Riches
+	- Fear
+		- Die nameless and penniless
+	- From:
+		- Where they are from
+	- Introduced: Link to the page first refences the character

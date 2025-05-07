@@ -1,0 +1,2 @@
+Local Church of [Pelor](https://forgottenrealms.fandom.com/wiki/Pelor) run by [[Father Corwin]]. Pelor or the Shining One is a god of the Sun, agriculture and healing. The church is small, and is lined with about ten pews on the left and right side of the middle pathway leading up to the alter of Pelor, the main focus at the back of the church where the sermons are given. There is a door leading to a small office in the back left corner of the church.
+[Floorplan](https://app.diagrams.net/#G1nLqTnKUyDLmZxMlIScyTyyDiXZZkMQoW#%7B%22pageId%22%3A%22dUIJRKacbBtZZJ1iqdSZ%22%7D)

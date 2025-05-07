@@ -1,0 +1,20 @@
+![[Rovina.webp]]
+- Characteristics
+	- Human, Female
+	- Neutral Neutral, [Mage](https://www.dndbeyond.com/monsters/16947-mage?srsltid=AfmBOoqxBCDyPNkJnRBZmZBhinRDFvKiSVo-ePxj5wesqtCC7AhPv9Ic) 
+		- Willing to break some rules to serve her own ends
+	- Visual Traits:
+		- Mid 50s
+		- Appearance
+			- Wears the Red Robes of her order
+- Backstory
+	- Groups:
+		- [[Mages of High Sorcery]] 
+			- Order of the Red Robes
+	- Serves as the caretaker of the Barb
+		- Interested in the history of the Barb pre cataclysm
+			- Believes the Barb was first constructed as a prototype for what would later be the Legendary 5 Towers, but there's still not enough proof to corroborate this yet
+	- Oversees the Trial of the Barb
+		- Her job to make sure only the best and brightest can move forward with the test
+			- Really just enjoys seeing all the potential new talent
+	- Introduced: [[2.1) Preludes]] - Eye in the Sky 

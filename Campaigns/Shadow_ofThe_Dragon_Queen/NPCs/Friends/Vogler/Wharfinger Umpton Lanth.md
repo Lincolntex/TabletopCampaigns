@@ -1,0 +1,34 @@
+![[Lanth.jpg]]
+- Characteristics:
+	- Human, Male
+	- Lawful Neutral, [Guard](https://www.dndbeyond.com/monsters/5195065-guard) 
+		- Will Support the letter of the law
+		- Honest man
+			- but is extremely stubborn
+			- enforces his interpretation of the law
+		- Think Old Boomer police captain
+	- Visual Traits:
+		- Late 50s
+		- 5'9
+		- Old, but experienced warrior
+- Backstory
+	- Groups:
+		- Vloger town Guard
+			- Warf Captain
+				- strict by the book
+					- 35% of all fines collected go to upkeep and minting the Warf
+					- 40% goes to Vogler city fund. 
+					- 25% goes to Payroll
+						- Dad pays son 5%
+				- Up early each morning inspecting boats at the dock
+					- Fines those in poor repair or without registration
+	- Wants
+		- What's best for Vogler
+			- Doesn't like change
+		- Proud of his position as Wharf Captain. 
+	- Fear
+		- Change
+		- The fickleness of time 
+	- From:
+		- Vogler
+	- Introduced: Link to the page first refences the character

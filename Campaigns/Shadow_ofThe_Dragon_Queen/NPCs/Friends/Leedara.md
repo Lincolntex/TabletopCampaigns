@@ -1,0 +1,31 @@
+![[Leedara.jpg]]
+- Characteristics:
+	- Silavnesti Elf, Female
+	- Neutral Neutral, Noble (Ghost)
+		- Brief alignment summary
+	- Visual Traits:
+		- Age: xx Years old
+		- Hight: xx
+		- Appearance
+- Abilities
+	- [Ghost](https://www.dndbeyond.com/monsters/16871-ghost?srsltid=AfmBOor8johIapzvzLM-wCQdubul4deN0oMWuSafXQxsSBLP6PbuMN1a) 
+	- Change Shape
+		- Leedara assumes the appearance she had in life, and her creature type changes to humanoid while retaining her other game stats.
+		- Ends when reduced to 0 HP
+- Backstory
+	- Groups:
+		- 
+	- Wants
+		- To stop Lord Soth by any means necessary
+	- Fear
+		- ??
+	- From:
+		- Where they are from
+	- Notes
+		- Died during the cataclysm
+		- Was friends with a fellow Priest, Isolde
+			- Isolde was drawn in with Lord Soth
+			- As a part of the curse for failing his divine quest
+				- Leedara and others were summoned
+				- Make Soths life difficult
+	- Introduced: Link to the page first refences the character

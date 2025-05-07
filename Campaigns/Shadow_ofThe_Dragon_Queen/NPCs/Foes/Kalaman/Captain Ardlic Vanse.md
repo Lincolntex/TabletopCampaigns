@@ -1,0 +1,19 @@
+![[Ardlic.jpg]]
+- Characteristics:
+	- Human, Male
+	- Alignment (Lawful Evil), RDA [Officer](https://www.dndbeyond.com/monsters/3081105-dragon-army-officer) 
+		- Will sacrifice anyone and anything for his mission and own safety
+	- Visual Traits:
+		- Age: xx Years old
+		- Hight: xx
+		- Appearance
+- Backstory
+	- Groups:
+		- [[Dragon Army, Red]] 
+	- Wants
+		- To finally find his safe place
+	- Fear
+		- His commander, Kansaldi Fire-eyes
+	- From:
+		- Where they are from
+	- Introduced: Link to the page first refences the character

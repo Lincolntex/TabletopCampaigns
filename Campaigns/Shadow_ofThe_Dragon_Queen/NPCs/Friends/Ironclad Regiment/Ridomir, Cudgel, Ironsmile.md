@@ -1,0 +1,22 @@
+![[Ironsmile.jpg]]
+- Characteristics:
+	- Hill Dwarf, Female
+	- Neutral Neutral, [Veteran](https://www.dndbeyond.com/monsters/17045-veteran?srsltid=AfmBOopYtogOxk0cUbBmBR5JQdLOrdnzTVkqOV4kmS3SpEq7KdCFebzB) 
+		- Willing to break some rules to serve her own ends
+	- Visual Traits:
+		- Usually wearing her mercenary armor
+- Backstory
+	- Groups:
+		- [[Ironclad Regiment]] 
+		- [[Greenshield Party]] 
+	- Full name: Cpt. Ridomir "Cudgel" Ironsmile
+	- An old adventuring partner of Ispin and Becklin
+		- Where she earned the nickname Cudgel
+	- Brought her Regiment here to participate in the Festival and say goodbye to a friend
+		- Wants to help the town out of respect for Ispin 
+	- personality
+		- Tough and Strong
+		- Think Lady Kima
+	- From Kayolin
+		- South of Solamnia
+	- Introduced: [[2.2) Arriving in Vogler]]: Locations/Mercenary Camp

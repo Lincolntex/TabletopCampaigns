@@ -1,0 +1,15 @@
+- owns/runs [[Turner’s General Goods]]
+- personality:
+    - overall:
+        - curt
+        - one word answers
+        - to the point
+    - Wants
+        - a simple life
+    - Fears
+        - not much
+        - loosing the store
+- Abilities
+    - Entrepreneur
+        - trade
+        - book keeping

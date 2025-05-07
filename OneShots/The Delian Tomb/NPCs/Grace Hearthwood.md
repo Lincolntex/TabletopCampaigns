@@ -1,0 +1,13 @@
+Occupation:
+    - Owner and cook of Green Dragon Inn
+- Clothing:
+    - Nice and well kept but simple clothes
+- Personality:
+    - friendly, and warm
+    - helps serve and works the kitchen
+    - Welcoming and kind
+- related Characters:
+    - Son
+	    - [[Matt Hearthwood]]
+    - Husband
+	    - [[Joshua Hearthwood]] 

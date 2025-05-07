@@ -1,0 +1,11 @@
+- Occupation:
+    - ???
+- Clothing:
+    - ???
+- Personality:
+    - Friendly
+    - aloof
+    - a bit gullible and slightly superstitious
+- related Characters:
+    - Father
+	    - [[Lars McGowan]]

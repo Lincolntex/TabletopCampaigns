@@ -1,0 +1,11 @@
+- Occupation:
+    - Blacksmith of Villane
+- Clothing:
+    - Black leather apron over his linen shirt and woolen pants.
+- Personality:
+    - Friendly
+    - Protective and kind
+    - a bit gullible and slightly superstitious
+- related Characters:
+    - Daughter
+	    - [[Bess McGowan]]

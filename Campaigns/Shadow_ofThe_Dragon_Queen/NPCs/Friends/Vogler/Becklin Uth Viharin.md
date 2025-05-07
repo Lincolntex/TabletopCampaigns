@@ -1,0 +1,33 @@
+![[Becklin.webp]] 
+- Characteristics:
+	- Human, Female
+	- Lawful Good, [Knight](https://www.dndbeyond.com/monsters/16938-knight?srsltid=AfmBOopNxkN0bsK9lf2m79Q45ABwF87ZZshycBXfdvtHB-gOw1moY7-j) 
+		- Her honor was her life. 
+		- Still important, but no code can account for the challenges of living. 
+	- Visual Traits:
+		- Late 50s
+		- Appearance
+- Backstory
+	- Groups:
+		- [[Knights of Solamnia]] 
+			- Order of the Crown
+			- Charge to [[Darrett Highwater]] 
+		- [[Greenshield Party]] 
+	- Steward of Thorwall Keep
+		- Last 10 or so years
+			- Official charge from her superiors
+				- seen as a quiet retirement for her
+		- Takes her role very seriously
+			- Remains alert for danger
+			- Keeps skills and gear sharp and honed
+			- Seen as one of the highest military authorities in Vogler
+		- KoS History buff
+			- Knows the Keeps relationship with the KoS
+		- Town respects her and her position within KoS
+			- Not because they respect KoS
+			- But because they like Becklin, and she has proven very helpful in defending the town
+	- Flaws
+		- Romanticizes the past
+	- From:
+		- Where they are from
+	- Introduced: [[2.2) Arriving in Vogler]]: Locations/The Brass Crab
