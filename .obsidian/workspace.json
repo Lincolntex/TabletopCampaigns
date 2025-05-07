@@ -170,8 +170,7 @@
                   "title": "1.0) Dungeondraft Notes"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "horizontal"
@@ -322,12 +321,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b252750ccc60538a",
+  "active": "47c6dde46cc14938",
   "lastOpenFiles": [
+    "Campaigns/Shadow_ofThe_Dragon_Queen/Chapters/4.2) The Spec Ops Unit.md",
+    "Campaigns/Shadow_ofThe_Dragon_Queen/Characters/The Party.md",
     "Campaigns/Shadow_ofThe_Dragon_Queen/Chapters/4.3) Struggle for Control.md",
     "Campaigns/Shadow_ofThe_Dragon_Queen/NPCs/Friends/Ironclad Regiment/Ridomir, Cudgel, Ironsmile.md",
     "Campaigns/Shadow_ofThe_Dragon_Queen/NPCs/Friends/Kalaman/Calof Miat.md",
-    "Campaigns/Shadow_ofThe_Dragon_Queen/Chapters/4.2) The Spec Ops Unit.md",
     "Campaigns/Shadow_ofThe_Dragon_Queen/Images/Scenes/Kalaman/Map_KalamanRegion.webp",
     "Untitled.canvas",
     "Campaigns/Shadow_ofThe_Dragon_Queen/NPCs/Friends/Kalaman/Tatina Rookledust.md",
@@ -344,7 +344,6 @@
     "Campaigns/Shadow_ofThe_Dragon_Queen/Images/NPCs/Kalaman/Ardlic.jpg",
     "Campaigns/Shadow_ofThe_Dragon_Queen/NPCs/Friends/1_Templates.md",
     "Campaigns/Shadow_ofThe_Dragon_Queen/NPCs/Foes/Kalaman",
-    "Campaigns/Shadow_ofThe_Dragon_Queen/Characters/The Party.md",
     "Campaigns/Shadow_ofThe_Dragon_Queen/Chapters/1.4) Character Creator.md",
     "Campaigns/Shadow_ofThe_Dragon_Queen/Chapters/1.3) Takhisis.md",
     "Campaigns/Shadow_ofThe_Dragon_Queen/Chapters/1.2) Ansalon.md",
