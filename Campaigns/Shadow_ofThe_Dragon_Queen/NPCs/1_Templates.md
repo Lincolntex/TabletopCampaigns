@@ -15,7 +15,7 @@ IMGAGE
 	- Fear
 	- From:
 		- Where they are from
-	- Introduced: Link to the page first refences the character
+	- Introduced: Link to the page first references the character
 
 
 Name of Group

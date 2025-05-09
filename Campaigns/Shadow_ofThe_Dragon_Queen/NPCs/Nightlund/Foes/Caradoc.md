@@ -1,0 +1,24 @@
+![[Caradoc.webp]]
+- Characteristics:
+	- Undead, Male
+	- Neutral Evil, [Spirit](https://5e.tools/bestiary/caradoc-dsotdq.html)
+		- Everything for my lord, as long as it serves me
+	- Visual Traits:
+		- Age: xx Years old
+		- Hight: xx
+		- Appearance
+- Backstory
+	- Groups:
+		- Daggard Keep
+	- Wants
+		- Everything, but watching people squirm will do
+		- Who doesn't love a little drama
+	- Fear
+		- Being stuck in Daggard keep
+	- History:
+		- Gained his position within KoS due to his noble pedigree and his family's money 
+		- Became under the service of Lord Soth
+			- Served as his seneschal and advisor
+		- Died during the cataclysm over 300 years ago
+		- Rose with Lord Soth's curse along with his lord
+	- Introduced: Link to the page first references the character
