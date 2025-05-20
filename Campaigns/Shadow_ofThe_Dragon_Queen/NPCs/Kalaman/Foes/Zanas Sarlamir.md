@@ -1,0 +1,32 @@
+ ![[knight-sarlamir.webp]]
+Characteristics:
+- Undead Male
+- Neutral Neutral, Knight
+	- Will bend the rules to help himself and others,
+- Visual Traits:
+	- Age: xx Years old
+	- Hight: xx,
+	- Appearance
+- Backstory
+    - Groups:
+        - What orgs they are apart of,
+	- Wants:
+	- Fear,
+	- History:
+		- Knight Sarlamirs Curse
+			- Was a respected Knight, Order of the crown
+			- Received a divine quest from Paladine years before Cataclysm
+				- Kingpriest of Istar had created a flying city in the Norhtern Wastes
+				- Was using divine power stolen from the accent metallic Dragons,
+				- Paladine tasked Sarlamir to travel to this city and convince the Kingpriest to land the flying city, and pacify the dragons fury,
+				- Salamir knew this would be tough, so he brought his familys greatest treasure
+					- an ancent Dragonlance,
+			- Salamir made it to the city, and met the Kingpriest and dragons in a standoff
+				- Kingpriest refused to land the city, saying it was a divine miracle
+				- Dragons refused to leave, as the city was draining their energy, and would have lasting effects on the land and their young,
+			- The conflict escalated, and Salamir ended up striking down the leader of the dragons, The gold dragon, Karavarix.,
+			- The moment the dragons blood touched the lance, it rusted and dulled in his hands,
+			- The other dragons then attacked, killing Salamir and destroying the city.,
+			- Salamirs knights brought his body back to the temple,
+			- It was reported that Sarlamir died defending the people from a rampaging dragon, and so Sarlamir was entombed beneath the castle,
+	- Introduced: Link to the page first references the character

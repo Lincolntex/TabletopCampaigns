@@ -1,16 +1,56 @@
 ## Player Stats:
-Higg Roundrock:
-- 
-Player
-- 
-Player
-- 
-Player
-- 
-Player
-- 
-Player
-- 
+
+#### Asgeir The Farseeing (Aw-s-gear)
+- Class: Divination Wizard
+- Race: Human
+- Passive Perception: 13
+- Languages: Draconic, Elvish, Celestial
+- Background: Mage of the Black Robes
+	- Anything for greater good
+	- Battles visions of destroyed world but is doing his best to keep it at bay
+
+#### Germogus "Gus"  
+- Class: Paladin 
+- Race: 
+- Passive perception: 11
+- Languages: Draconic, Darvish, orcish
+- Background: Order of the Sword
+	- Loading....
+
+#### Lady Kylia (kai-leah)
+- Class: Cleric
+- Race: Half-elf
+- Passive perception: 10
+- Languages: Abyssal, Common, Elvish, Primordial
+- Background: Noble
+	- Raised in high society
+		- with an elitist venomous family
+	- Selfish Looks down upon everyone beneath their station 
+		- especially commoners
+	- Speaks of gods, but divine power is her divine right
+		- Believes she owns those she heals
+
+#### Rhys (Reece) 
+- Class: Monk - Ascendant Dragon
+- Race: Dragonborn - Silver
+- Passive perception: 13
+- Languages: 
+- Background: Monetary considered home in the mountains
+	- Not martial
+	- Spread knowledge
+	- Drunken Dragonborn
+- Backpack: MS = 20
+
+#### Rawlab
+- Class: Artificer - Battle smith
+- Race: Tinker Rock Gnome
+- Background: Charlatan 
+	- Fun loving trickster
+	- joke for every occasion
+	- owe everything to a mentor he despises
+	- Cant resist a pretty face
+- Passive perception: 11
+- Languages: Common, Gnomish
 ## World Stats:
 Time: 
 
@@ -42,22 +82,19 @@ Time:
 	- EMPTY
 	- EMPTY
 #### Player Bags:
-- Higg Roundrock
+- Asgeir The Farseeing (Evan)
 	- Backpack: MS = 20
 	1) 
-- Player
+- Lady Kylia (Lynn) kilea
 	- Backpack: MS = 20
 	1) 
-- Player
+- Rhys (Brandon) - Reece
 	- Backpack: MS = 20
 	1) 
-- Player
+- Rawlab (Jake)
 	- Backpack: MS = 20
 	1) 
-- Player
-	- Backpack: MS = 20
-	1) 
-- Player
+- Germogus (Rowan) - Gus 
 	- Backpack: MS = 20
 	1) 
 ## Active Missions:

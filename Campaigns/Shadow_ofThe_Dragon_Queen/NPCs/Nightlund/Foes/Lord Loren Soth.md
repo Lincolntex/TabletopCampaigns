@@ -1,0 +1,37 @@
+![[LorenSoth.jpg]]
+Characteristics:
+ - Undead, Male
+    - Neutral Evil, [Death Knight](https://5e.tools/bestiary/death-knight-xmm.html)
+        - Will play along, but in the end, the only thing that matters is my will, no matter who stands in my way
+        - Visual Traits:
+            - Age: xx Years old
+			- Hight: xx,
+			- Appearance,
+- Backstory
+    - Groups:
+        - Daggard Keep,
+	- Wants,
+	- Fear,
+	- History:
+		- Years before the Cataclysm
+			- Soth was KoS with the order of the Rose,
+			- Ruled over Knightlund from Daggard Keep,
+			- His fall began when he rescued a group of Silvanesti elves, including the priest, Isolde,
+			- Soth fell in love with Isolde
+				- though he was already wed to another
+					- Who died shortly after Isoldes rescue,
+			- Soth wed Isolde days after his wifes passing
+				- Very dishonorable in the eyes of KoS,
+				- Soth was expelled from KoS because of this,
+				- Soon after being expelled
+			- Gods called upon Soth to redeem himself by preventing the cataclysm
+				- Soth failed
+					- Angry that Soth "corrupted" their priest,
+					- Isolde's fellow priests who lied to Soth telling him Isolde was unfaithful
+					- In a fit of rage Soth
+						- Abandoned the quest
+						- Slew the priests
+					- Traveled back to Daggard and slew Isolde
+						- Who cursed him to undeath for a year for every life lost in the cataclysm
+			- Now he rules over his cursed castle Daggard Keep in Nightlund 
+	- Introduced: Link to the page first references the character
